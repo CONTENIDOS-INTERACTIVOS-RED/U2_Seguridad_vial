@@ -33,7 +33,7 @@
               figure
                 img.img-a.img-t(src="@/assets/curso/temas/33.png")               
             .col-lg-7
-              h5 Contratación y selección (Resolución 40595/2022, paso 10)
+              h5 Finalidad del procedimiento
               p La organización debe establecer y aplicar procedimientos para identificar, analizar, valorar y controlar los riesgos asociados a la movilidad laboral. 
               p Estos deben cubrir:
               ul.lista-ul--color.mb-0            
@@ -238,7 +238,7 @@
           .col-lg-8.mb-3.mb-lg-0
             h2.mb-4(data-aos="flip-up") Identificación de peligros y evaluación de riesgos viales
             p.mb-4(data-aos="fade-right") Se invita a leer el documento Identificación de peligros y evaluación de riesgos viales, donde se aborda el proceso de reconocimiento y análisis de los factores que pueden comprometer la seguridad en los desplazamientos laborales.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_4.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -320,7 +320,7 @@
           .col-lg-8.mb-3.mb-lg-0
             h2.mb-4(data-aos="flip-up") Elaboración de plan de emergencias y contingencias viales
             p.mb-4(data-aos="fade-right") Se invita a leer el documento Elaboración de plan de emergencias y contingencias viales, donde se aborda la importancia de diseñar un plan integral para gestionar eficazmente emergencias en las vías.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_4.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_2.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto

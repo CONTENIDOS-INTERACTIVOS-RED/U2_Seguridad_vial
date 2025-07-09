@@ -94,27 +94,9 @@ export default {
     },
     {
       referencia:
-        'Resolución 20223040040595 de 2022 (Ministerio de Transporte).  Por la cual se adopta la metodología para el diseño, implementación y verificación de los Planes Estratégicos de Seguridad Vial y se dictan otras disposiciones. 12 de julio de 2022. D.O. 52102 ',
-      link:
-        'https://www.cancilleria.gov.co/sites/default/files/Normograma/docs/resolucion_mintransporte_40595_2022.htm#1',
-    },
-    {
-      referencia:
         'Ramírez Soriano, A. (2020). Prevención de riesgos laborales: prevención de accidentes. Seguridad vial. Marge Books. ',
       link:
         'https://elibro.net/es/lc/tecnologicadeloriente/login_usuario/?next=/es/ereader/tecnologicadeloriente/160741/?page=14 ',
-    },
-    {
-      referencia:
-        'Resolución 20223040040595 de 2022 (Ministerio de Transporte).  Por la cual se adopta la metodología para el diseño, implementación y verificación de los Planes Estratégicos de Seguridad Vial y se dictan otras disposiciones. 12 de julio de 2022. D.O. 52102 ',
-      link:
-        'https://www.cancilleria.gov.co/sites/default/files/Normograma/docs/resolucion_mintransporte_40595_2022.htm#1',
-    },
-    {
-      referencia:
-        'Resolución 20223040040595 de 2022 (Ministerio de Transporte).  Por la cual se adopta la metodología para el diseño, implementación y verificación de los Planes Estratégicos de Seguridad Vial y se dictan otras disposiciones. 12 de julio de 2022. D.O. 52102 ',
-      link:
-        'https://www.cancilleria.gov.co/sites/default/files/Normograma/docs/resolucion_mintransporte_40595_2022.htm#1',
     },
   ],
   glosario: [

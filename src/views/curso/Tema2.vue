@@ -52,7 +52,7 @@
               p.mb-0 Sesiones de retroalimentación con todos los niveles de la organización. 
         p(data-aos="fade-left") Este enfoque fomenta una cultura de seguridad vial basada en la responsabilidad compartida y el compromiso institucional, reforzada por mecanismos de comunicación efectiva que mantienen alineados a todos los actores.
 
-    h3(data-aos="fade-down") Participación activa y cultura organizacional
+    h3(data-aos="fade-down") Documentación y mejora continua
     p(data-aos="fade-down") Todos los procesos de verificación deben estar debidamente documentados, generando:
 
     .row.justify-content-center.mb-5           
